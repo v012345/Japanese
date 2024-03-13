@@ -82,6 +82,17 @@
 + ポーランド <==> Poland
 + ポルトガル <==> Portugal
 + イタリア <==> Italy
++ アジア <==> Asia
++ アフリカ <==> Africa
++ アルゼンチン <==> Argentina
++ オーストラリア <==> Australia
++ スーパー <==> supermarket
++ デパート <==> department store
++ コンビニ <==> convenience store
++ レストラン  <==> restaurant
++ カフェ <==> cafe
++ バー <==> bar
++ おてあらい <==> お手洗い
 
 #
 + しつれいします。 <==> 失礼します。
