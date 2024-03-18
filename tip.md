@@ -25,7 +25,7 @@ It depends on the context whether we use kun- or on- readings. You can see all o
 
 ---
 
-So far, we've been usingじゃないです for negative na-adjective + noun sentences.
+So far, we've been using じゃないです for negative na-adjective + noun sentences.
 To make this more formal, we can change the ending to ではありません.
 Have a look at the sentences below meaning "I'm not well". 🤒
 
@@ -35,6 +35,22 @@ Have a look at the sentences below meaning "I'm not well". 🤒
 |     ⇅      |  げんきじゃありません。 |
 |     ⇅      |  げんきではないです。   |
 | more formal |  げんきではありません。 |
+
+
+---
+
+To make the "(noun / na-adjective) じゃなかったです" sentences more formal, change:
+じゃ → では
+なかったです → ありませんでした.
+
+Have a look at the sentences below, which all mean "I was not well". 🤒
+
+|             |                      |
+| :---------: | :-----------------:  |
+|more casual  |  げんきじゃなかったです。  |
+|     ⇅      |  げんきじゃありませんでした。 |
+|     ⇅      |  げんきではなかったです。   |
+| more formal |  げんきではありませんでした。 |
 
 
 
