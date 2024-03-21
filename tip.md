@@ -52,10 +52,14 @@ Have a look at the sentences below, which all mean "I was not well". 🤒
 |     ⇅      |  げんきではなかったです。   |
 | more formal |  げんきではありませんでした。 |
 
+---
 
+まで？までに？
 
+We've learned that まで means “until; to”. までに sounds similar and it might be confusing!
 
+Take a look at the examples below and make sure you understand the differences:
 
++ 十時まで寝ます。(I sleep until 10.) 
 
-
-
++ 十時までに寝ます。(I go to bed by 10.) 
