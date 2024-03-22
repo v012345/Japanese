@@ -63,3 +63,52 @@ Take a look at the examples below and make sure you understand the differences:
 + 十時まで寝ます。(I sleep until 10.) 
 
 + 十時までに寝ます。(I go to bed by 10.) 
+
+---
+
+すーして
+
+For the て form of U verbs that end with す, we just need to change す to して.
+
+|      |      |
+| :--: | :--: |
+|dictionary form|て form|
+|はなす |はなして|
+
+---
+
+くーいて、ぐーいで
+
+For the て form of the U verbs that end with く, we just need to change く to いて.
+But there is one exception to this! The verb "to go" 行く/いく has a form of 行って/いって as it is easier to pronounce than a double い!
+
+For the て form of the U verbs that end with ぐ, we just need to change ぐ to いで. (Remember to use ゛! ) To practise this pattern, let's learn a new verb, およぐ (to swim).
+
+|      |      |
+| :--: | :--: |
+|dictionary form|て form|
+|かく (to write) |かいて|
+|行く/いく (to go) |行って/いって|
+|およぐ (to swim) |およいで|
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
