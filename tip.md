@@ -91,7 +91,15 @@ For the て form of the U verbs that end with ぐ, we just need to change ぐ to
 |行く/いく (to go) |行って/いって|
 |およぐ (to swim) |およいで|
 
+---
 
+We've been using the て form to name the activities we will do in a specific order, one after the other. It implies that we won't do anything else.
+However, to list activities with no specific order or limit, we use a different structure:
+verb in the た form + り、verb in the た form + り します。 Compare the examples below:
+
+日曜日はレストランに行って、えいがを見ます。(On Sunday, I will go to the restaurant, and then watch a movie.)
+
+日曜日はレストランに行ったり、えいがを見たりします。(On Sunday, I will do things such as going to a restaurant and watching movies.)
 
 
 
