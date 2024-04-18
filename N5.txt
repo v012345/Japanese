@@ -21,3 +21,11 @@
 レポート            report
 スピーチ            speech
 おぼえる            憶える/覚える
+けんがく            見学
+かいしゃ            会社
+ぎんこう            銀行
+はたらく            働く
+ひるやすみ          昼休み（lunch break）
+ざんぎょう          残業（overtime work）
+しゅっちょう        出張（business trip）
+じむしょ            事務所
