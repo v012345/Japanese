@@ -63,3 +63,12 @@
 やちん              家賃（rent）
 ところ              所（place）
 いなか              田舎（countryside）
+たな                棚（shelf）
+カタログ            catalog
+きっさてん          喫茶店（coffee shop）
+よやく              予約
+けんこう            健康
+びょうき            病気
+なにか              何か（something）
+しょくじ            食事
+しょくどう          食堂
